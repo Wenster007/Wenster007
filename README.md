@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Khan/@Wenster007
-- 👀 I’m interested in Web development , web 3.0 and App Development.
-- 🌱 I’m currently learning Javascript and have plan to learn MERN after it.
+- 👀 I’m interested in Web development, web 3.0 and App Development.
+- 🌱 I’m currently learning Flutter and have plan to learn backend technologies after it.
 - 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/ahmed-khan-163b78243/
 <!---
